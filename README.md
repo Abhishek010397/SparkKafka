@@ -28,12 +28,12 @@ Steps Included :-
 
                        bin/kafka-server-start.sh config/server.properties
 
-3.Initiate the kafka producer with the topic
+3.  Initiate the kafka producer with the topic
 
-                       bin/kafka-console-producer.sh --broker-list localhost:9092 --topic messagetopic
+            bin/kafka-console-producer.sh --broker-list localhost:9092 --topic messagetopic
 
 My code here takes the message as an input and print outs the words in the message along with the word count.
 
 # Sample Output
 
-         ![alt text](https://github.com/Abhishek010397/SparkKafka/blob/master/KafkaSpark.png)
+![alt text](https://github.com/Abhishek010397/SparkKafka/blob/main/KafkaSpark.png)
