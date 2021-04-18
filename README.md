@@ -36,4 +36,4 @@ My code here takes the message as an input and print outs the words in the messa
 
 # Sample Output
 
-         ![alt text](https://github.com/Abhishek010397/SparkKafka/blob/master/KafkaSpark.png)
+         ![alt text](https://github.com/Abhishek010397/SparkKafka/blob/main/KafkaSpark.png)
